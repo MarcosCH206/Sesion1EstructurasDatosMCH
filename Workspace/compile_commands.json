@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo8",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo8\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo7",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo7\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo3\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo4\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo5",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo5\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo2\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo6\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo1\\main.cpp -o C:\\Users\\maxca\\Documents\\Carrera\\Workspace\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
