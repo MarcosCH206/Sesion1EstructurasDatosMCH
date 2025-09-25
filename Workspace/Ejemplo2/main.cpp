@@ -1,6 +1,7 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; 
+// Al usar esta línea no hay que añadir nada junto con cout o cin
 
 int main(int argc, char **argv)
 {

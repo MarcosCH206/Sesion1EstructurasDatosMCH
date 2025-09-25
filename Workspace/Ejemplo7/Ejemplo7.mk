@@ -14,8 +14,8 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=maxca
-Date                   :=9/18/2025
-CodeLitePath           :=C:/CosasCodeLite/codelite-amd64-17.0.0/codelite
+Date                   :=9/19/2025
+CodeLitePath           :=C:/CosasCodelite/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
@@ -63,7 +63,7 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\CosasCodeLite\codelite-amd64-17.0.0\codelite
+CodeLiteDir:=C:\CosasCodelite\codelite-amd64-17.0.0\codelite
 Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
